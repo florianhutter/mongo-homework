@@ -1,0 +1,19 @@
+{
+  "name": "mongo-homework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/florianhutter/mongo-homework.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/florianhutter/mongo-homework/issues"
+  },
+  "homepage": "https://github.com/florianhutter/mongo-homework#readme"
+}
